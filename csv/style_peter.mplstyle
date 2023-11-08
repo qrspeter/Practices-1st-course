@@ -1,0 +1,39 @@
+### FIGURE
+figure.facecolor: white
+figure.titlesize: 12
+figure.titleweight: bold
+figure.figsize  : 3.15, 2.4 # 8x6 cm
+figure.dpi : 150
+savefig.dpi : 200
+
+### LINES
+lines.linewidth: 4 #1.0
+
+### PATCHES
+patch.facecolor: 0072B2
+
+### LEGEND
+legend.fontsize: 12
+
+### TICKS
+xtick.direction: in #out
+ytick.direction: in #out
+
+### FONTS
+font.family: sans-serif
+font.sans-serif: Avenir, 'Avenir Next LT Pro', Arial, Helvetica, sans-serif
+font.weight: bold
+font.size: 12
+
+### AXES
+axes.grid: True
+axes.facecolor: white
+axes.linewidth: 1.0
+axes.titlesize: 12
+axes.titleweight: bold
+axes.labelsize: 12
+axes.labelweight: bold
+axes.spines.top: True
+axes.spines.right: True
+axes.prop_cycle: cycler('color', ['000000', 'FF0000', '00FF00', '0000FF', '00FFFF', 'FF00FF', 'FFFF00'])
+# '0072B2', '009E73', 'D55E00', 'CC79A7', 'F0E442', '56B4E9'
