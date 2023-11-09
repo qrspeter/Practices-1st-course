@@ -1,3 +1,5 @@
+# plot Raman specra of reduced graphene oxide and another samples. Normalize data.
+
 import numpy as np
 import matplotlib.pyplot as plt
 

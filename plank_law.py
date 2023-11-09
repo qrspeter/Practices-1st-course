@@ -1,3 +1,5 @@
+# Plot spectra of radiation of different objects using Planck's law of blackbody radiation
+
 import matplotlib.pyplot as plt
 import numpy as np
 

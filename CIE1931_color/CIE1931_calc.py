@@ -1,3 +1,5 @@
+# Find color coordinates for spectra of Carbon dots LED and place then on the chromaticity diagram CIE1931
+
 import numpy as np
 import colour.plotting as cl
 import matplotlib.pyplot as plt
@@ -45,5 +47,5 @@ for i in range(3):
     y_cmf_interp.append(np.interp(x_interp, x_cmf_o, cmf_o[:, i + 1]))
 arr = rgbcalc(y_cmf_interp, y_sp_interp, step)
 
-RGB = np.array(arr) # если такакя конвертация допустима
+RGB = np.array(arr) # если такая конвертация допустима
 cl.plot_RGB_chromaticities_in_chromaticity_diagram_CIE1931(RGB)

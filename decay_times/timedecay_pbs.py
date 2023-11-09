@@ -1,3 +1,6 @@
+# Fit the fluorescence decay of PbS quantum dots with exponential function using numpy only.
+# Find the decay constant.
+
 import numpy as np
 import matplotlib.pyplot as plt
 

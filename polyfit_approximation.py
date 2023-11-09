@@ -1,3 +1,6 @@
+# Make a random data and apply polynomial approximation with different degree.
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 

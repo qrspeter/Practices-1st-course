@@ -1,3 +1,5 @@
+# Using the Wien's law  calculate wavelength of a peak position of radiation at different temperature of a body. Check input values.
+
 import math 
 b = 0.0029
 

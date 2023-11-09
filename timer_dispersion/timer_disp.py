@@ -1,3 +1,5 @@
+# Calculate average and dispersion for data from a timer in file.
+
 filename = 'time.txt'
 
 def load_data():

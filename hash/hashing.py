@@ -1,3 +1,5 @@
+# Make a function to calculate hash of a string using bitwise  XOR, then using Pearson hashing (using a key table)
+
 from random import shuffle
 s1='\0\0\0\0'
 s2='\0\0\0\0\0\0\0\0'

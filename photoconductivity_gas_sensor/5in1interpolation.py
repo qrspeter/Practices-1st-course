@@ -1,3 +1,5 @@
+# Load test data (signal I(t) from gas sensor, obtained in the same conditions) from 5 files, average them and plot averaged data.
+
 import numpy as np
 import matplotlib.pyplot as plt
 path = './csv/'

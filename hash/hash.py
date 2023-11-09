@@ -1,3 +1,5 @@
+# Make a hash for every string in a file (using Pearson hashing)
+
 from random import shuffle
 
 def table_generator(size: int) -> list:

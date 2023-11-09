@@ -1,3 +1,8 @@
+# Load fluorescence spectra of carbon dots in different solvents (Acetone, Chloroform, Ethanol, Toluene, water). 
+# Find a wavelength of maximum absorption (the wavelength more than 300 nm) for each sample.
+# Plot wavelength of the maximum absorption as a function of solvent polarity. Approximate the function.
+# The file name is "solvent_name + _AS15.2.txt"
+
 import matplotlib.pyplot as plt
 import numpy as np
 

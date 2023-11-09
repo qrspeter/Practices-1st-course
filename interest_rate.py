@@ -1,7 +1,9 @@
+# Calculate the deposit amount taking into account the interest rate in a few years. Apply f-strings to show the result.
+
 primary = 100
 r = 5.0
 n = 7
-amount = primary * (1+r/100)**n
+amount = primary * (1 + r/100)**n
 print(amount)
 
 print(f"{amount=:.2f}")

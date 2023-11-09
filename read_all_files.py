@@ -1,3 +1,5 @@
+# A way to read all files from the folder
+
 import os
 
 path = '.'

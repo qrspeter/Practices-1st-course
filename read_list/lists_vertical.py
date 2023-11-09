@@ -1,3 +1,5 @@
+# Make a "vertical" 2D array (with 2 columns), write it to a file, read and print.
+
 filename = 'lists_test_v.txt'
 
 x = [x for x in range(10)]
