@@ -3,9 +3,6 @@
 # interest_rate.py
 Calculate the deposit amount taking into account the interest rate in a few years. Apply f-strings to show the result.
 
-# timer_dispersion/
-Calculate average and dispersion for data from a timer in file.
-
 ## wien_law.py 
 Using the Wien's law  calculate wavelength of a peak position of radiation at different temperature of a body. Check input values.
 
@@ -17,6 +14,9 @@ Make a random data and apply polynomial approximation with different degree.
 
 ## read_all_files.py
 A way to read all files from the folder
+
+# timer_dispersion/
+Calculate average and dispersion for data from a timer in file.
 
 # read_list/
 Make a "horizontal" 2D array with 2 rows (then "vertical" witn 2 columns), write it to a file, read and print.
