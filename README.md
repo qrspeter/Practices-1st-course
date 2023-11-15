@@ -38,3 +38,6 @@ Fit the fluorescence decay of PbS quantum dots with exponential function using n
 
 ## CIE1931_color/
 Find color coordinates for spectra of Carbon dots LED and place then on the chromaticity diagram CIE1931
+
+## neural/
+Single Layer Perceptron and recognition of 1D arrays
