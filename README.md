@@ -42,5 +42,8 @@ Find color coordinates for spectra of Carbon dots LED and place then on the chro
 ## perceptron/
 Single Layer Perceptron and recognition of 1D arrays
 
-## recognition_spectra/
+## recognition_PbS/
 Recognition of two types of spectra
+
+## repeated_execution/
+Repeated execution and reading data from a power meter PM100D
