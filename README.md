@@ -47,3 +47,6 @@ Recognition of two types of spectra
 
 ## repeated_execution/
 Repeated execution and reading data from a power meter PM100D
+
+## smoothing.py
+Generate randon 1D data and smooth them by averaging
